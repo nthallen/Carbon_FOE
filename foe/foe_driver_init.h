@@ -6,7 +6,7 @@
 #ifndef GDS_DRIVER_INIT_INCLUDED
 #define GDS_DRIVER_INIT_INCLUDED
 
-#include "gds_pins.h"
+#include "foe_pins.h"
 
 #ifdef __cplusplus
 extern "C" {

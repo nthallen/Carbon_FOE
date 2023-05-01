@@ -4,7 +4,7 @@
  * reviewed and copied here as appropriate.
  */
 
-#include "gds_driver_init.h"
+#include "foe_driver_init.h"
 #include <peripheral_clk_config.h>
 #include <utils.h>
 #include <hal_init.h>

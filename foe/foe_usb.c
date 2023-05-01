@@ -3,8 +3,8 @@
  * Whenever the Atmel START project is updated, changes to usb_start.c must be
  * reviewed and copied here as appropriate.
  */
-#include "gds_driver_init.h"
-#include "gds_usb.h"
+#include "foe_driver_init.h"
+#include "foe_usb.h"
 #include "usart.h"
 
 volatile bool pending_read = false;

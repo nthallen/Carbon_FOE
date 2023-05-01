@@ -1,5 +1,4 @@
-#include "gds_driver_init.h"
-#include "usb_start.h"
+#include "atmel_start.h"
 
 int main(void)
 {

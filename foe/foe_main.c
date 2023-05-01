@@ -6,10 +6,10 @@
  * project.
  */
 
-#include "gds_driver_init.h"
+#include "foe_driver_init.h"
 #include "subbus.h"
 #include "ser_control.h"
-#include "gds_usb.h"
+#include "foe_usb.h"
 
 int main(void)
 {
